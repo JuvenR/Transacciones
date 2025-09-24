@@ -1,0 +1,28 @@
+{
+  "name": "transacciones",
+  "version": "1.0.0",
+  "description": "Asignacion de Mysql y Node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuvenR/Transacciones.git"
+  },
+  "keywords": [
+    "node",
+    "mysql",
+    "transactions"
+  ],
+  "author": "Carlos Rios",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JuvenR/Transacciones/issues"
+  },
+  "homepage": "https://github.com/JuvenR/Transacciones#readme",
+  "dependencies": {
+    "mysql2": "^3.15.0"
+  }
+}
